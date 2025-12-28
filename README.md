@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Konstantinos 👋
 
-<!--
-**tzalistar/tzalistar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Systems Engineer & Solution Architect with 10+ years of experience in **DevOps transformation, cloud infrastructure, and enterprise systems architecture**. I design, automate, and optimize reliable platforms that scale.
 
-Here are some ideas to get you started:
+## 🛠️ What I work with
+- **DevOps & Automation**: Ansible, Terraform, ArgoCD, Azure DevOps  
+- **Containers & Virtualization**: Docker, Kubernetes, OpenShift, Proxmox, VMware  
+- **Cloud**: Azure, AWS, Oracle Cloud  
+- **Monitoring & Security**: Prometheus, Grafana, Zabbix, Loki, Azure Sentinel  
+- **Networking**: Routing, Switching, Firewalls, WAFs  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Focus Areas
+- Infrastructure as Code & CI/CD  
+- High availability & disaster recovery  
+- Cloud & hybrid architectures  
+- Observability, performance & cost optimization  
+
+## 📚 Labs & Projects
+Most repositories here are **hands-on labs, automation tooling, and infrastructure experiments** from my personal lab and real-world enterprise scenarios.
+
+## 🌍 Find me
+- 💼 [LinkedIn](https://www.linkedin.com/in/konstantinos-tzalas-110005a1/)
+- 📝 [Tech Blog](https://blog.jlab.systems/)
+
+> *“Automate what can be automated. Measure what matters.”*
