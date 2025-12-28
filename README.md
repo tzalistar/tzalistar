@@ -1,6 +1,4 @@
-# Hi, I'm Konstantinos 👋
-
-Senior Systems Engineer & Solution Architect with 10+ years of experience in **DevOps transformation, cloud infrastructure, and enterprise systems architecture**. I design, automate, and optimize reliable platforms that scale.
+Hi, I'm Konstantinos 👋, Senior Systems Engineer & Solution Architect with 10+ years of experience in **DevOps transformation, cloud infrastructure, and enterprise systems architecture**. I design, automate, and optimize reliable platforms that scale.
 
 ## 🛠️ What I work with
 - **DevOps & Automation**: Ansible, Terraform, ArgoCD, Azure DevOps  
@@ -19,7 +17,7 @@ Senior Systems Engineer & Solution Architect with 10+ years of experience in **D
 Most repositories here are **hands-on labs, automation tooling, and infrastructure experiments** from my personal lab and real-world enterprise scenarios.
 
 ## 🌍 Find me
-- 💼 [LinkedIn](https://www.linkedin.com/in/konstantinos-tzalas-110005a1/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/konstantinos-tzalas/)
 - 📝 [Tech Blog](https://blog.jlab.systems/)
 
 > *“Automate what can be automated. Measure what matters.”*
