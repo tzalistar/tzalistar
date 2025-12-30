@@ -22,4 +22,8 @@ Most repositories here are **hands-on labs, automation tooling, and infrastructu
 - 💼 [LinkedIn](https://www.linkedin.com/in/konstantinos-tzalas/)
 - 📝 [Tech Blog](https://blog.jlab.systems/)
 
+### Like the content I upload?
+
+<a href='https://ko-fi.com/I3I5UWSZC' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 > *“Automate what can be automated. Measure what matters.”*
