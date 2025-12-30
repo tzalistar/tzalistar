@@ -24,6 +24,7 @@ Most repositories here are **hands-on labs, automation tooling, and infrastructu
 
 ### 🤟 Like the content I upload?
 
-<a href='https://ko-fi.com/I3I5UWSZC' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+#### <a href='https://ko-fi.com/I3I5UWSZC' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> 
+#### <a href="https://www.buymeacoffee.com/tzalistar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 > *“Automate what can be automated. Measure what matters.”*
